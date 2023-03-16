@@ -1,12 +1,12 @@
 {
   "name": "portfolio",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://mazher123.github.io/Portfolio/",
   "scripts": {
     "start": "vite",
-    "predeploy": "vite build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
