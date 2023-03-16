@@ -8,7 +8,7 @@
     "node": "14.17.1"
   },
   "scripts": {
-    "start": "npm start",
+    "start": "set PORT=3006 && react-scripts start",
     "dev": "npm",
     "build": "npm build",
     "preview": "npm preview",
