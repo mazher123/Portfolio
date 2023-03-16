@@ -1,9 +1,9 @@
 {
-  "name": "porfolio",
+  "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mazher123.github.io/Porfolio/",
+  "homepage": "https://mazher123.github.io/Portfolio/",
   "scripts": {
     "start": "vite",
     "predeploy": "vite build",
